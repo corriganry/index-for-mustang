@@ -1,0 +1,25 @@
+{
+	"firstName":"Luffy",
+	"lastName":"Monkey D.",
+	"preferredName":"Luffy",
+	"email":"pirateking@lewisu.edu",
+	"phoneNumber":"150-000-0000",
+	"class":"cpsc-24700-001",
+	"room":"AS-104-A",
+	"startTime":"3pm CT",
+	"seatNumber":"",
+	"inPerson":[
+	],
+	"virtual":[
+        "Monday",
+		"Wednesday",
+		"Friday"
+	],
+	"city":"Dawn Island",
+	"state":"Hawaii",
+	"zip":"96718",
+	"lat":"19.89",
+	"lng":"-155.58",
+	"favoriteHobby":"Stretching",
+    "birthday":"May 5th"
+}

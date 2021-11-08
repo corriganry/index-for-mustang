@@ -1,0 +1,25 @@
+{
+	"firstName":"Ryan",
+	"lastName":"Corrigan",
+	"preferredName":"Ryan",
+	"email":"ryanjcorrigan@lewisu.edu",
+	"phoneNumber":"779-208-6596",
+	"class":"cpsc-24700-001",
+	"room":"AS-104-A",
+	"startTime":"3pm CT",
+	"seatNumber":"6",
+	"inPerson":[
+		"Monday",
+		"Wednesday"
+	],
+	"virtual":[
+		"Friday"
+	],
+	"city":"Rockford",
+	"state":"IL",
+	"zip":"61011",
+	"lat":"42.26",
+	"lng":"-89.08",
+	"favoriteHobby":"Ping Pong",
+    "birthday":"July 8th"
+}

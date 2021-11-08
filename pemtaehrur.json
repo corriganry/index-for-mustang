@@ -1,0 +1,25 @@
+{
+	"firstName":"All",
+	"lastName":"Might",
+	"preferredName":"All Might",
+	"email":"numberonehero@lewisu.edu",
+	"phoneNumber":"555-555-5555",
+	"class":"cpsc-24700-001",
+	"room":"AS-104-A",
+	"startTime":"3pm CT",
+	"seatNumber":"6",
+	"inPerson":[
+		"Monday",
+		"Wednesday"
+	],
+	"virtual":[
+		"Friday"
+	],
+	"city":"Washington",
+	"state":"D.C.",
+	"zip":"20001",
+	"lat":"38.90",
+	"lng":"-77.03",
+	"favoriteHobby":"Saving People",
+    "birthday":"June 10th"
+}
